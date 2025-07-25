@@ -1,0 +1,51 @@
+export const blogs = [
+    {
+      id: 1,
+      title: "Your Go-To 10-Min Beginner Home Workout – Zero Equipment Needed ",
+      summary: "We get it, life can become hectic sometimes. Between work, study deadlines, family time, and the occasional scroll break, finding....",
+      content: "We get it, life can become hectic sometimes. Between work, study deadlines, family time, and the occasional scroll break, finding an hour at the gym can feel like a huge thing. But this is not an excuse, right? Health & fitness is non-negotiable, and every individual has to put efforts into making it right!",
+      image: "/assets/blog1.jpg",
+      date: "2025-07-25",
+    },
+    {
+      id: 2,
+      title: "Fast & Simple Beginner Workout – 10 Minutes, No Equipment",
+      summary: "Be more flexible. Portrait of teenage boy and girl trying yoga pose, doing exercises together with female trainer in gym.... ",
+      content: "Be more flexible. Portrait of teenage boy and girl trying yoga pose, doing exercises together with female trainer in gym. Stretching on a sunny day. Healthy life, physical education concept. Horizontal shot. Selective focus.",
+      image: "/assets/blog2.jpg",
+      date: "2025-07-25",
+    },
+    {
+      id: 3,
+      title: "Simple Start: 10-Min Home Fitness Routine for Beginners",
+      summary: "We get it—life can get crazy. With jobs, classes, family time, and even a few scrolls on your phone, hitting the gym might feel impossible.... ",
+      content: "We get it—life can get crazy. With jobs, classes, family time, and even a few scrolls on your phone, hitting the gym might feel impossible. But let’s be honest—that’s not a free pass. Your health matters, and taking care of your body should never take a backseat. A little effort goes a long way!",
+      image: "/assets/blog3.jpg",
+      date: "2025-07-25",
+    },
+    {
+      id: 4,
+      title: "Back It Up: Top 7 Yoga Poses to Relieve Back Pain Naturally",
+      summary: "No matter the age, back pain has become one of the most common issues, and the major contributing reason is....",
+      content: "No matter the age, back pain has become one of the most common issues, and the major contributing reason is the desk-bound lifestyle. Prolonged sitting, poor posture, even stress, or lack of active lifestyle or we can say movement, back pain can severely limit daily life.\n\nAccording to the World Health Organization, nearly 80% of adults experience back pain at some point in their lives. Fortunately, nature has given us a solution that doesn’t come in a bottle: movement. And when it comes to mindful, restorative movement, YOGA tops the list. Yes, Yoga helps a lot! Yoga for back pain provides a gentle yet powerful way to relieve back pain naturally, without relying on pills or lengthy procedures. Let’s discuss more and look at some of the Yoga poses that can help an individual with back pain.",
+      image: "/assets/blog4.jpg",
+      date: "2025-07-25",
+    },
+    {
+      id: 5,
+      title: "Beginner Workout Plan for Women: Build Strength with Confidence",
+      summary: "Strength training, is often considered a male-dominant activity, but it is not! It is equally important and beneficial for women.... ",
+      content: "Strength training, is often considered a male-dominant activity, but it is not! It is equally important and beneficial for women.   Understandably, women feel intimidated or shy while stepping into the gym for the first time, but it comes an excitement too. From unfamiliar equipment to the fear of doing things wrong, many women often hesitate to start their fitness journey. But let us tell you the truth: everyone starts somewhere, and building strength is not just about the changes in your body, it’s about gaining confidence in yourself, and building a healthy lifestyle.",
+      image: "/assets/blog6.jpg",
+      date: "2025-07-25",
+    },
+    {
+      id: 6,
+      title: "Mental Health Awareness: Why Talking About It Matters More Than Ever",
+      summary: "Gone are the days when people were new to the concept of Mental Health, a very important one indeed! May.... ",
+      content: "Gone are the days when people were new to the concept of Mental Health, a very important one indeed! May is considered Mental Health Awareness Month, a specific period dedicated to breaking stigma, improving understanding, and encouraging support for mental well-being. If talking statistically, the World Health Organization (WHO) reports that one in eight people globally experience mental stress, yet fewer than two-thirds seek help. Why? Because silence often feels safer than speaking up.",
+      image: "/assets/blog5.jpg",
+      date: "2025-07-25",
+
+    },
+  ]
